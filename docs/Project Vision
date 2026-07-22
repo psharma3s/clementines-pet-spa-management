@@ -1,1 +1,66 @@
+# Project Vision
 
+## Purpose
+
+The purpose of the Clementine's Pet Spa Management System is to provide a modern, user-friendly web application for a fictional locally owned pet grooming business.
+
+The application will allow customers to learn about the business, explore available grooming services, schedule appointments, contact the business, and apply for employment opportunities through an intuitive online experience.
+
+In addition to serving customers, the application will provide tools for business management, allowing staff to organize customer information, manage pets, schedule appointments, maintain service offerings, and support day-to-day operations.
+
+---
+
+## Vision Statement
+
+Create a professional, reliable, and scalable web application that demonstrates modern software engineering practices while providing an enjoyable experience for both customers and business staff.
+
+The system should be easy to use, maintainable, and capable of growing as new features and business needs are introduced.
+
+---
+
+## Target Users
+
+The application is designed for two primary groups of users:
+
+### Customers
+
+Customers can:
+
+- Learn about the business
+- Browse available grooming services
+- Schedule appointments
+- Contact the business
+- Submit employment applications
+
+### Business Staff
+
+Business staff can:
+
+- Manage customer information
+- Manage pet records
+- Manage appointments
+- Manage employees
+- Manage grooming services
+
+---
+
+## Project Goals
+
+The project aims to:
+
+- Improve the customer experience by providing convenient online services.
+- Organize business information in a structured and efficient manner.
+- Demonstrate professional software design and development practices.
+- Serve as a foundation for future enhancements and additional functionality.
+
+---
+
+## Success Criteria
+
+The project will be considered successful when it:
+
+- Provides an intuitive user experience.
+- Accurately manages business data.
+- Supports the primary needs of customers and staff.
+- Is organized using clean, maintainable software architecture.
+- Can be expanded with new features as the business grows.
