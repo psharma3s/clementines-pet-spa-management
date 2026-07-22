@@ -55,6 +55,13 @@ The project aims to:
 
 ---
 
+## Project Scope
+
+Version 1 of the application will focus on the core functionality required to support the daily operations of a pet grooming business,
+including customer management, pet management, appointment scheduling, service management, and informational pages for prospective customers.
+
+Additional enhancements, integrations, and advanced features will be considered in future releases.
+
 ## Success Criteria
 
 The project will be considered successful when it:
