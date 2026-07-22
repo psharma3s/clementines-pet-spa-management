@@ -1,24 +1,37 @@
 # Clementine's Pet Spa Management System
 
-## Overview
+## About the Project
 
-Clementine's Pet Spa Management System is a full-stack learning project centered around the development of a modern web application for a fictional locally owned pet grooming business.
+Clementine's Pet Spa Management System is a long-term full-stack software engineering learning project centered around the development of a modern web application for a fictional locally owned pet grooming business.
 
-Unlike a traditional portfolio project that focuses on showcasing completed skills, this repository documents the learning journey of designing and building a full-stack application using professional software engineering practices.
+The application is being built progressively as new concepts are learned, allowing the project to evolve alongside my understanding of software engineering principles, backend development, frontend development, and professional development workflows.
 
-The project serves as a hands-on environment for learning Java, Spring Boot, REST APIs, PostgreSQL, React, Git, GitHub workflows, and modern software architecture while progressively transforming a simple business website into a complete web application.
+---
+
+## Why This Project Exists
+
+The purpose of this repository is not simply to build a working application.
+
+It is to document the process of learning how professional software is designed, developed, tested, and maintained.
+
+Rather than rushing to complete features, each new concept is studied and understood before being implemented. The goal is to build a strong foundation in software engineering that can later be applied to larger, production-quality portfolio projects.
 
 ---
 
 ## Learning Objectives
 
-- Develop a strong understanding of Object-Oriented Programming
-- Learn professional Git and GitHub workflows
-- Build RESTful APIs using Spring Boot
-- Design and implement relational databases with PostgreSQL
-- Develop a modern frontend using React
-- Apply software architecture and design principles
-- Practice documenting and planning software projects
+Throughout this project I will learn and apply:
+
+- Object-Oriented Programming (OOP)
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- React
+- Git & GitHub workflows
+- Software architecture and design principles
+- Testing and debugging
+- Professional software documentation
 
 ---
 
@@ -56,7 +69,7 @@ The project serves as a hands-on environment for learning Java, Spring Boot, RES
 - Java
 - Spring Boot
 - Spring Data JPA
-- REST API
+- REST APIs
 
 ### Database
 
@@ -72,35 +85,53 @@ The project serves as a hands-on environment for learning Java, Spring Boot, RES
 
 ---
 
-## Current Phase
+## Repository Structure
 
-Project Planning & Software Design
+```text
+docs/
+    Project planning and documentation
+
+frontend/
+    Future React frontend
+
+backend/
+    Future Spring Boot backend
+```
 
 ---
 
-## Repository Structure
+## Current Status
 
-frontend/
-Future React frontend
+**Phase 1 — Project Planning**
 
-backend/
-Future Spring Boot backend
+Current focus:
 
-docs/
-Project documentation and planning
+- Project documentation
+- Software architecture
+- Requirements gathering
+- Java fundamentals
 
 ---
 
 ## Development Philosophy
 
-This project prioritizes understanding over speed.
+This project follows one guiding principle:
 
-The goal is not simply to build an application, but to understand why each architectural decision is made and how each technology fits into the overall system.
+> **Understand first. Build second. Optimize third.**
 
-Every major concept will be learned before being automated through development tools or AI-assisted coding.
+Every feature is designed to reinforce understanding before implementation. AI-assisted development tools may be used to improve productivity only after the underlying concepts are fully understood.
 
 ---
 
-## Status
+## Roadmap
 
-Active Development
+- [x] Repository Initialization
+- [ ] Project Documentation
+- [ ] Software Architecture
+- [ ] Java Fundamentals
+- [ ] Spring Boot Backend
+- [ ] Database Integration
+- [ ] REST API Development
+- [ ] React Frontend
+- [ ] Authentication
+- [ ] Deployment
