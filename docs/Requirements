@@ -1,1 +1,109 @@
+# System Requirements
 
+## Functional Requirements
+
+### Customer Management
+
+The system shall:
+
+- Allow customers to create an account.
+- Allow customers to update their personal information.
+- Allow customers to view their profile.
+- Allow business staff to search for customers.
+- Allow business staff to update customer records.
+- Allow business staff to deactivate customer accounts.
+
+### Pet Management
+
+The system shall:
+
+- Allow customers to register one or more pets.
+- Store pet information including name, breed, age, weight, and grooming notes.
+- Allow customers to edit pet information.
+- Allow business staff to update pet records.
+- Associate each pet with a customer.
+
+### Appointment Management
+
+The system shall:
+
+- Allow customers to schedule appointments.
+- Allow customers to cancel appointments.
+- Allow customers to reschedule appointments.
+- Allow business staff to view daily appointments.
+- Prevent appointment conflicts.
+- Associate appointments with customers, pets, and services.
+
+### Service Management
+
+The system shall:
+
+- Display available grooming services.
+- Display pricing information.
+- Allow business staff to add new services.
+- Allow business staff to edit services.
+- Allow business staff to deactivate services.
+
+### Employee Management
+
+The system shall:
+
+- Store employee information.
+- Assign appointments to employees.
+- Allow business staff to manage employee records.
+
+### Contact & Employment
+
+The system shall:
+
+- Display business contact information.
+- Provide a contact form.
+- Allow applicants to submit employment applications.
+
+---
+
+## Non-Functional Requirements
+
+### Security
+
+The system shall:
+
+- Require authentication for administrative functions.
+- Protect sensitive customer information.
+- Validate user input.
+
+### Performance
+
+The system shall:
+
+- Respond to user requests within an acceptable time.
+- Support multiple users simultaneously.
+
+### Reliability
+
+The system shall:
+
+- Preserve stored customer information.
+- Recover gracefully from unexpected errors.
+
+### Usability
+
+The system shall:
+
+- Provide an intuitive interface.
+- Be responsive across desktop and mobile devices.
+
+### Maintainability
+
+The system shall:
+
+- Be organized using modular software architecture.
+- Follow clean coding practices.
+- Be documented to support future development.
+
+### Scalability
+
+The system shall:
+
+- Support future business growth.
+- Allow additional features to be integrated without major redesign.
